@@ -11,10 +11,14 @@
             "id": "5b0e7fb8c679eaf6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Math/stats/data types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "data types"
             }
           }
         ]
@@ -156,5 +160,17 @@
     }
   },
   "active": "5b0e7fb8c679eaf6",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Math/stats/statical population.md",
+    "Math/stats/data types.md",
+    "Math/Statistics and Probability .pdf",
+    "Math/probability.md",
+    "Math/Centeral tendency.md",
+    "Math/basics.md",
+    "Math/series.md",
+    "Math/stats/intro.md",
+    "Math/stats/functions.md",
+    "Math/stats",
+    "Math/Arithmetic mean in case of imdividual series.md"
+  ]
 }
