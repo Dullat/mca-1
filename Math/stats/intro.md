@@ -5,6 +5,7 @@ All these words mean ‘Political state’. In ancient days, the states were req
 Also to calculate the total amount of land revenue that can be collected. Due to this reason, statistics is also called ‘Political Arithmetic’.
 
 [What Is Statistics? Importance, Scope, Limitations](https://www.geektonight.com/what-is-statistics/)
+[8 Main Limitations of Statistics – Explained!](https://www.economicsdiscussion.net/statistics/8-main-limitations-of-statistics-explained/2321)
 
 
 ---
