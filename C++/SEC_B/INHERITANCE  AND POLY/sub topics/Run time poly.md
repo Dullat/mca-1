@@ -1,0 +1,3 @@
+## Runtime Polymorphism
+
+This type of polymorphism is achieved by ****Function Overriding****. Late binding and dynamic polymorphism are other names for runtime polymorphism. The function call is resolved at runtime in [runtime polymorphism](https://www.geeksforgeeks.org/virtual-functions-and-runtime-polymorphism-in-cpp/). In contrast, with compile time polymorphism, the compiler determines which function call to bind to the object after deducing it at runtime.

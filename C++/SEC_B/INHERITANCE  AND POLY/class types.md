@@ -96,6 +96,10 @@ In this example, `Grandparent` is the **indirect base class** for `Child`, as it
 
 ### **3. Virtual Base Class**
 
+Virtual base classes offer a way to save space and avoid ambiguities in class hierarchies that use multiple inheritances.
+
+***Best explanation*** : [Virtual base class in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/virtual-base-class-in-c/)
+
 A **virtual base class** is used in the context of **multiple inheritance** to avoid the **diamond problem**. When multiple derived classes inherit from a common base class, a **virtual base class** ensures that only one instance of the base class is inherited, preventing ambiguity.
 
 #### The Diamond Problem:
@@ -148,6 +152,8 @@ In this example, `A` is the **virtual base class** of both `B` and `C`. Thanks t
 ---
 
 ### **4. Abstract Base Class**
+
+[Pure Virtual Functions and Abstract Classes in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/pure-virtual-functions-and-abstract-classes/)
 
 An **abstract base class** is a class that has at least one **pure virtual function**. A pure virtual function is a function that is declared but does not have a definition in the base class. It forces derived classes to provide an implementation for that function.
 
