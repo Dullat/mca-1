@@ -112,3 +112,5 @@ Feel free to ask if you have any questions or need further clarification on any 
 ---
 [[QuickSort]]
 [[MergeSort]]
+
+[Quick Sort vs Merge Sort - GeeksforGeeks](https://www.geeksforgeeks.org/quick-sort-vs-merge-sort/)
