@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/SEC_B/EXCEPTION HANDLING.md",
+                "file": "Math/To watch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXCEPTION HANDLING"
+              "title": "To watch"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 370.5
   },
   "right": {
     "id": "2eb0da8cf7efb1ae",
@@ -161,8 +161,21 @@
   },
   "active": "5b0e7fb8c679eaf6",
   "lastOpenFiles": [
-    "C++/SEC_B/TEMPLATES.md",
+    "Math/Statistics and Probability .pdf",
+    "Math/To watch.md",
+    "Math/probability.md",
+    "Math/stats/Construction of Univariate and Bivariate Frequency Distributions.md",
+    "Math/stats/Diagrammatic and Graphical Representation of Data.md",
+    "Math/stats/classification and tabulation.md",
+    "Math/stats/SAMPLING AND METHODS.md",
+    "Math/stats/questionnaire and schedule.md",
+    "Math/stats/functions.md",
+    "Math/stats/data types.md",
+    "Math/stats/statical population.md",
+    "Math/stats/intro.md",
+    "Math/basics.md",
     "C++/SEC_B/EXCEPTION HANDLING.md",
+    "C++/SEC_B/TEMPLATES.md",
     "C++/SEC_B/INHERITANCE  AND POLY/Multiple topics function overloading.md",
     "C++/SEC_B/INHERITANCE  AND POLY",
     "C++/SEC_B/INHERITANCE  AND POLY/class types.md",
@@ -176,23 +189,9 @@
     "C++/SEC_B/INHERITANCE  AND POLY/inheritance.md",
     "C++/SECOND PERA/Functions.md",
     "C++/SEC_B/INHERITANCE  AND POLY/B starting.md",
-    "C++/SECOND PERA/CHAT GPT.md",
-    "E-commerce/REGULATORY AND LEGAL ENVIRONMENT FOR E-COMMERCE.md",
-    "E-commerce/aspects of security.md",
-    "E-commerce/FIREWALL 2.md",
-    "E-commerce/firewall.md",
-    "E-commerce/crpytography.md",
-    "E-commerce/messaging security.md",
-    "E-commerce/message.md",
-    "E-commerce/security.md",
-    "E-commerce/sniffing vs mam in middle.md",
-    "E-commerce/anatomy.md",
-    "E-commerce/intro.md",
-    "E-commerce/technologies of e-commerce.md",
     "DataStructures/Greedy/Greedy Algorithms - GeeksforGeeks.pdf",
     "DataStructures/Sorting/Pasted image 20240910113248.png",
     "C++/Pasted image 20241114194657.png",
-    "Math/Statistics and Probability .pdf",
     "Math/stats"
   ]
 }
