@@ -1,5 +1,3 @@
-Sure! Let’s dive into the Divide and Conquer technique, focusing on Quick Sort and Merge Sort algorithms, along with their performance analysis.
-
 ### Divide and Conquer Technique
 
 The Divide and Conquer technique is a fundamental algorithmic strategy that breaks a problem into smaller subproblems, solves each subproblem independently, and then combines the results to solve the original problem. The three main steps in this approach are:

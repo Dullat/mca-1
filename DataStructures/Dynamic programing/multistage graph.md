@@ -1,4 +1,5 @@
 A **multistage graph** is a type of directed graph in which the nodes are organized into different **stages** or **levels**, with edges allowed only between nodes from consecutive stages. This kind of graph structure is often used to model problems where decisions or operations are made step-by-step, and each step depends on the previous one, similar to how a process unfolds over multiple stages.
+https://youtu.be/paWLZWX8Xhg?si=1Wa9CdAhZ5Ej4OZx
 
 ### Characteristics of a Multistage Graph:
 1. **Stages or Levels**: The nodes are divided into several stages. Each stage represents a set of related decisions or operations, and the nodes in each stage correspond to intermediate states or outcomes.

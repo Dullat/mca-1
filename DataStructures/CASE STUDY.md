@@ -1,5 +1,5 @@
-Sure! Let's walk through a simple case study of **Linear Search** and how you can analyze it for time complexity and space complexity. This case study will help you understand how to structure your answer in an exam setting.
 
+jithe Case study krn nu kiha othe krna
 ---
 
 ### **Case Study: Linear Search Algorithm**
