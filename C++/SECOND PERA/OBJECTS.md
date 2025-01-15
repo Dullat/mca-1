@@ -68,6 +68,8 @@ You can create an array of objects in C++. Each object in the array is initializ
 #### 3. **Function Returning an Object**
 A function can return an object of a class. When returning an object by value, a copy is made. But this can be inefficient if the object is large, so **returning by reference** is also an option in some cases, but it requires careful consideration to avoid returning a reference to a local object (which will be destroyed once the function scope ends).
 
+[[[return obj]]]
+
 - **Returning by Value**:
     ```cpp
     MyClass createObject(int val) {
